@@ -4,7 +4,7 @@ A multi-page, responsive blog website built to showcase travel stories and photo
 
 ## 🚀 Live Demo
 
-You can view the live website here: [Your Live URL Here]
+You can view the live website here: [https://travel-blog-8dy5.onrender.com/index.html]
 
 _**(Note: You will replace the text in the brackets with the actual URL after you deploy to GitHub Pages.)**_
 
@@ -30,14 +30,15 @@ The project is organized into a clean, professional folder structure:
 |-- contact.html
 |-- article-template.html
 |-- README.md
-|-- /css
-|   |-- style.css
-|-- /js
-|   |-- script.js
-|-- /images
-|   |-- dolomites.jpg
-|   |-- profile.jpg
-|   |-- etc...
+|--assets/
+  |-- /css
+     |-- style.css
+  |-- /js
+     |-- script.js
+  |-- /images
+      |-- dolomites.jpg
+      |-- profile.jpg
+      |-- etc...
 
 
 ## Author
